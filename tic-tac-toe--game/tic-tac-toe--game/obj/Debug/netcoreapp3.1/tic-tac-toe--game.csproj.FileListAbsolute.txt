@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\tic-tac-toe--game\tic-tac-toe--game\bin\Debug\netcoreapp3.1\tic-tac-toe--game.exe
+C:\Users\HP\source\repos\tic-tac-toe--game\tic-tac-toe--game\bin\Debug\netcoreapp3.1\tic-tac-toe--game.deps.json
+C:\Users\HP\source\repos\tic-tac-toe--game\tic-tac-toe--game\bin\Debug\netcoreapp3.1\tic-tac-toe--game.runtimeconfig.json
+C:\Users\HP\source\repos\tic-tac-toe--game\tic-tac-toe--game\bin\Debug\netcoreapp3.1\tic-tac-toe--game.runtimeconfig.dev.json
+C:\Users\HP\source\repos\tic-tac-toe--game\tic-tac-toe--game\bin\Debug\netcoreapp3.1\tic-tac-toe--game.dll
+C:\Users\HP\source\repos\tic-tac-toe--game\tic-tac-toe--game\bin\Debug\netcoreapp3.1\tic-tac-toe--game.pdb
+C:\Users\HP\source\repos\tic-tac-toe--game\tic-tac-toe--game\obj\Debug\netcoreapp3.1\tic-tac-toe--game.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\tic-tac-toe--game\tic-tac-toe--game\obj\Debug\netcoreapp3.1\tic-tac-toe--game.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\tic-tac-toe--game\tic-tac-toe--game\obj\Debug\netcoreapp3.1\tic-tac-toe--game.AssemblyInfo.cs
+C:\Users\HP\source\repos\tic-tac-toe--game\tic-tac-toe--game\obj\Debug\netcoreapp3.1\tic-tac-toe--game.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\tic-tac-toe--game\tic-tac-toe--game\obj\Debug\netcoreapp3.1\tic-tac-toe--game.dll
+C:\Users\HP\source\repos\tic-tac-toe--game\tic-tac-toe--game\obj\Debug\netcoreapp3.1\tic-tac-toe--game.pdb
+C:\Users\HP\source\repos\tic-tac-toe--game\tic-tac-toe--game\obj\Debug\netcoreapp3.1\tic-tac-toe--game.genruntimeconfig.cache
